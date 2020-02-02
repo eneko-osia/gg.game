@@ -1,0 +1,3 @@
+[submodule "deps/gg.engine"]
+	path = deps/gg.engine
+	url = git@github.com:eneko-osia/gg.engine.git
